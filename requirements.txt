@@ -1,0 +1,10 @@
+streamlit
+joblib
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+scipy
+altair
+quantile-forest
